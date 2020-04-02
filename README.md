@@ -5,7 +5,10 @@ Se debe tener instalada las librerias de python ipython-sql, sqlalchemy, plotly,
 
 
 **INTEGRANTES**
+
 Pablo Sao - 11530
+
 Mercedes Retolaza - 16339
+
 
 **Repositorio:** https://github.com/psao/UVG-CC3074-PY01-Analisis-Exploratorio
